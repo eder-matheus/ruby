@@ -1,0 +1,3 @@
+[submodule "Rails_Introduction/test_app"]
+	path = Rails_Introduction/test_app
+	url = https://github.com/eder-matheus/test_app
